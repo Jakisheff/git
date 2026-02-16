@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 f7ca9152ad228c6be2d92b59579028a055e44833 Amir Zhakyshev <84526390+Jakisheff@users.noreply.github.com> 1771265685 +0500	branch: Created from HEAD
+f7ca9152ad228c6be2d92b59579028a055e44833 4fe93bfca93f8a2d173a1205ead02621ea6fdbe6 Amir Zhakyshev <84526390+Jakisheff@users.noreply.github.com> 1771265685 +0500	commit: Added greeter.sh
+4fe93bfca93f8a2d173a1205ead02621ea6fdbe6 17fa64e2ed631d81db53324d48ff35d2152dbb94 Amir Zhakyshev <84526390+Jakisheff@users.noreply.github.com> 1771265706 +0500	commit: Updated hello.sh to use greeter.sh
+17fa64e2ed631d81db53324d48ff35d2152dbb94 4b291d90e6b0a89f486888d062976c989123e3ac Amir Zhakyshev <84526390+Jakisheff@users.noreply.github.com> 1771265715 +0500	commit: Updated Makefile with comment
+4b291d90e6b0a89f486888d062976c989123e3ac f41c193469d2a0e8b41ef9f99a45daa6f67ff684 Amir Zhakyshev <84526390+Jakisheff@users.noreply.github.com> 1771265739 +0500	merge main: Merge made by the 'ort' strategy.
+f41c193469d2a0e8b41ef9f99a45daa6f67ff684 cce4ae36fd8a1dd1a2aaa9e6593b8d071d982719 Amir Zhakyshev <84526390+Jakisheff@users.noreply.github.com> 1771265764 +0500	commit (merge): Resolved merge conflict, accepted main changes
+cce4ae36fd8a1dd1a2aaa9e6593b8d071d982719 4b291d90e6b0a89f486888d062976c989123e3ac Amir Zhakyshev <84526390+Jakisheff@users.noreply.github.com> 1771265776 +0500	reset: moving to 4b291d9
+4b291d90e6b0a89f486888d062976c989123e3ac 0bb81c40437ed681471a159771ebf85644f701d4 Amir Zhakyshev <84526390+Jakisheff@users.noreply.github.com> 1771265870 +0500	rebase (finish): refs/heads/greet onto 5cf0cb7ac30ff07a5da24688aa93469cd3891070

@@ -1,0 +1,9 @@
+650fdc94bcfbf3ec7e79d790bc63cbf24635cb7d 80956e3ea271366470c8d241eccb35fffaa1aa77 Amir Zhakyshev <84526390+Jakisheff@users.noreply.github.com> 1771265581 +0500	commit: Added author comment
+80956e3ea271366470c8d241eccb35fffaa1aa77 fe6372555778a6a0829b9a726dedb1a9b9072781 Amir Zhakyshev <84526390+Jakisheff@users.noreply.github.com> 1771265582 +0500	commit (amend): Added author comment
+fe6372555778a6a0829b9a726dedb1a9b9072781 93d28fd223b7e7e4395472e8ea32d04571e9a951 Amir Zhakyshev <84526390+Jakisheff@users.noreply.github.com> 1771265623 +0500	commit: Moved hello.sh to lib/
+93d28fd223b7e7e4395472e8ea32d04571e9a951 f7ca9152ad228c6be2d92b59579028a055e44833 Amir Zhakyshev <84526390+Jakisheff@users.noreply.github.com> 1771265623 +0500	commit: Added Makefile
+f7ca9152ad228c6be2d92b59579028a055e44833 081ec135024d45f85075f2bc2016cbc138e3c2f1 Amir Zhakyshev <84526390+Jakisheff@users.noreply.github.com> 1771265731 +0500	commit: Added README.md
+081ec135024d45f85075f2bc2016cbc138e3c2f1 5cf0cb7ac30ff07a5da24688aa93469cd3891070 Amir Zhakyshev <84526390+Jakisheff@users.noreply.github.com> 1771265749 +0500	commit: Updated hello.sh with interactive prompt
+5cf0cb7ac30ff07a5da24688aa93469cd3891070 0bb81c40437ed681471a159771ebf85644f701d4 Amir Zhakyshev <84526390+Jakisheff@users.noreply.github.com> 1771265919 +0500	merge greet: Fast-forward
+0bb81c40437ed681471a159771ebf85644f701d4 c404f5323173d462c3a465abbbe213ee6b018a29 Amir Zhakyshev <84526390+Jakisheff@users.noreply.github.com> 1771265976 +0500	commit: Changed README in original
+c404f5323173d462c3a465abbbe213ee6b018a29 093ed72f3b96fd8e47b75474abea411f20e05484 Amir Zhakyshev <84526390+Jakisheff@users.noreply.github.com> 1771266059 +0500	commit: Changed README and pushing to shared

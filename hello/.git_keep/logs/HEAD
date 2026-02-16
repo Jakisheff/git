@@ -1,0 +1,25 @@
+650fdc94bcfbf3ec7e79d790bc63cbf24635cb7d 80956e3ea271366470c8d241eccb35fffaa1aa77 Amir Zhakyshev <84526390+Jakisheff@users.noreply.github.com> 1771265581 +0500	commit: Added author comment
+80956e3ea271366470c8d241eccb35fffaa1aa77 fe6372555778a6a0829b9a726dedb1a9b9072781 Amir Zhakyshev <84526390+Jakisheff@users.noreply.github.com> 1771265582 +0500	commit (amend): Added author comment
+fe6372555778a6a0829b9a726dedb1a9b9072781 93d28fd223b7e7e4395472e8ea32d04571e9a951 Amir Zhakyshev <84526390+Jakisheff@users.noreply.github.com> 1771265623 +0500	commit: Moved hello.sh to lib/
+93d28fd223b7e7e4395472e8ea32d04571e9a951 f7ca9152ad228c6be2d92b59579028a055e44833 Amir Zhakyshev <84526390+Jakisheff@users.noreply.github.com> 1771265623 +0500	commit: Added Makefile
+f7ca9152ad228c6be2d92b59579028a055e44833 f7ca9152ad228c6be2d92b59579028a055e44833 Amir Zhakyshev <84526390+Jakisheff@users.noreply.github.com> 1771265685 +0500	checkout: moving from main to greet
+f7ca9152ad228c6be2d92b59579028a055e44833 4fe93bfca93f8a2d173a1205ead02621ea6fdbe6 Amir Zhakyshev <84526390+Jakisheff@users.noreply.github.com> 1771265685 +0500	commit: Added greeter.sh
+4fe93bfca93f8a2d173a1205ead02621ea6fdbe6 17fa64e2ed631d81db53324d48ff35d2152dbb94 Amir Zhakyshev <84526390+Jakisheff@users.noreply.github.com> 1771265706 +0500	commit: Updated hello.sh to use greeter.sh
+17fa64e2ed631d81db53324d48ff35d2152dbb94 4b291d90e6b0a89f486888d062976c989123e3ac Amir Zhakyshev <84526390+Jakisheff@users.noreply.github.com> 1771265715 +0500	commit: Updated Makefile with comment
+4b291d90e6b0a89f486888d062976c989123e3ac f7ca9152ad228c6be2d92b59579028a055e44833 Amir Zhakyshev <84526390+Jakisheff@users.noreply.github.com> 1771265725 +0500	checkout: moving from greet to main
+f7ca9152ad228c6be2d92b59579028a055e44833 081ec135024d45f85075f2bc2016cbc138e3c2f1 Amir Zhakyshev <84526390+Jakisheff@users.noreply.github.com> 1771265731 +0500	commit: Added README.md
+081ec135024d45f85075f2bc2016cbc138e3c2f1 4b291d90e6b0a89f486888d062976c989123e3ac Amir Zhakyshev <84526390+Jakisheff@users.noreply.github.com> 1771265739 +0500	checkout: moving from main to greet
+4b291d90e6b0a89f486888d062976c989123e3ac f41c193469d2a0e8b41ef9f99a45daa6f67ff684 Amir Zhakyshev <84526390+Jakisheff@users.noreply.github.com> 1771265739 +0500	merge main: Merge made by the 'ort' strategy.
+f41c193469d2a0e8b41ef9f99a45daa6f67ff684 081ec135024d45f85075f2bc2016cbc138e3c2f1 Amir Zhakyshev <84526390+Jakisheff@users.noreply.github.com> 1771265749 +0500	checkout: moving from greet to main
+081ec135024d45f85075f2bc2016cbc138e3c2f1 5cf0cb7ac30ff07a5da24688aa93469cd3891070 Amir Zhakyshev <84526390+Jakisheff@users.noreply.github.com> 1771265749 +0500	commit: Updated hello.sh with interactive prompt
+5cf0cb7ac30ff07a5da24688aa93469cd3891070 f41c193469d2a0e8b41ef9f99a45daa6f67ff684 Amir Zhakyshev <84526390+Jakisheff@users.noreply.github.com> 1771265757 +0500	checkout: moving from main to greet
+f41c193469d2a0e8b41ef9f99a45daa6f67ff684 cce4ae36fd8a1dd1a2aaa9e6593b8d071d982719 Amir Zhakyshev <84526390+Jakisheff@users.noreply.github.com> 1771265764 +0500	commit (merge): Resolved merge conflict, accepted main changes
+cce4ae36fd8a1dd1a2aaa9e6593b8d071d982719 4b291d90e6b0a89f486888d062976c989123e3ac Amir Zhakyshev <84526390+Jakisheff@users.noreply.github.com> 1771265776 +0500	reset: moving to 4b291d9
+4b291d90e6b0a89f486888d062976c989123e3ac 5cf0cb7ac30ff07a5da24688aa93469cd3891070 Amir Zhakyshev <84526390+Jakisheff@users.noreply.github.com> 1771265776 +0500	rebase (start): checkout main
+5cf0cb7ac30ff07a5da24688aa93469cd3891070 1e236992aa35a81c9141bdfeefa688a61ea8281d Amir Zhakyshev <84526390+Jakisheff@users.noreply.github.com> 1771265776 +0500	rebase (pick): Added greeter.sh
+1e236992aa35a81c9141bdfeefa688a61ea8281d 0bb81c40437ed681471a159771ebf85644f701d4 Amir Zhakyshev <84526390+Jakisheff@users.noreply.github.com> 1771265870 +0500	rebase (pick): Updated Makefile with comment
+0bb81c40437ed681471a159771ebf85644f701d4 0bb81c40437ed681471a159771ebf85644f701d4 Amir Zhakyshev <84526390+Jakisheff@users.noreply.github.com> 1771265870 +0500	rebase (finish): returning to refs/heads/greet
+0bb81c40437ed681471a159771ebf85644f701d4 5cf0cb7ac30ff07a5da24688aa93469cd3891070 Amir Zhakyshev <84526390+Jakisheff@users.noreply.github.com> 1771265918 +0500	checkout: moving from greet to main
+5cf0cb7ac30ff07a5da24688aa93469cd3891070 0bb81c40437ed681471a159771ebf85644f701d4 Amir Zhakyshev <84526390+Jakisheff@users.noreply.github.com> 1771265919 +0500	merge greet: Fast-forward
+0bb81c40437ed681471a159771ebf85644f701d4 c404f5323173d462c3a465abbbe213ee6b018a29 Amir Zhakyshev <84526390+Jakisheff@users.noreply.github.com> 1771265976 +0500	commit: Changed README in original
+c404f5323173d462c3a465abbbe213ee6b018a29 093ed72f3b96fd8e47b75474abea411f20e05484 Amir Zhakyshev <84526390+Jakisheff@users.noreply.github.com> 1771266059 +0500	commit: Changed README and pushing to shared
